@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Tanvir Anjum</h1>
 <h3 align="center">Focused on solving challenging problems, I am a passionate competitive programmer and MERN Stack developer dedicated to building creative and practical solutions. With a background in Computer Science and Engineering, I combine technical expertise with innovative thinking to deliver impactful digital experiences.</h3>
 
-<p align="left"> <a href="https://x.com/MtanvirA" target="blank"><img src="https://img.shields.io/twitter/follow/mahbubhasanabid?logo=twitter&style=for-the-badge" alt="Md. Tanvir Anjum" /></a> </p>
+<p align="left"> <a href="https://x.com/MtanvirA" target="blank"><img src="https://img.shields.io/twitter/follow/MtanvirA?logo=twitter&style=for-the-badge" alt="Md. Tanvir Anjum" /></a> </p>
 
 - 🔭 I’m currently learning **MERN Stack**
 
