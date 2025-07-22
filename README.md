@@ -35,9 +35,6 @@ I am happy to address any questions or provide further assistance that you may r
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MtanvirA&show_icons=true&locale=en&layout=compact" alt="MtanvirA" /></p>
 
-<br>
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MtanvirA&show_icons=true&locale=en" alt="MtanvirA" /></p>
 
 <br>
