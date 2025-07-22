@@ -37,13 +37,11 @@ I am happy to address any questions or provide further assistance that you may r
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MtanvirA&show_icons=true&locale=en" alt="MtanvirA" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MtanvirA&show_icons=true&locale=en" alt="MtanvirA" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MtanvirA&" alt="MtanvirA" /></p\
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MtanvirA&" alt="MtanvirA" /></p\
 <br>
 
-![](https://raw.githubusercontent.com/MtanvirA/cf-status/main/output/max_rating.svg)<br>
-![](https://raw.githubusercontent.com/MtanvirA/cf-status/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MtanvirA/cf-status/main/output/light_card.svg)
+
